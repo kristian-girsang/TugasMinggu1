@@ -1,12 +1,13 @@
 button{
-    background-color:  #9fbfd3;
+    background-color:  #287cb1;
     padding: 15px 25px;
     margin: auto 50px;
     border-style: none;
     font-size: 15px;
     font-weight: bold;
+    border-radius: 10px;
 }
 
 button:hover{
-    background-color:  #2861b8;
+    background-color:  #99b9e9;
 }
